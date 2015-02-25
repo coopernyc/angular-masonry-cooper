@@ -1,8 +1,8 @@
 {
-  "name": "angular-masonry",
+  "name": "angular-masonry-cooper",
   "description": "An AngularJS directive for Masonry.",
   "version": "0.11.0",
-  "main": "./angular-masonry.js",
+  "main": "./angular-masonry-cooper.js",
   "ignore": [
     "**/.*",
     "node_modules",
