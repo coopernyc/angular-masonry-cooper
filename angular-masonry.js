@@ -41,7 +41,7 @@
             $element.masonry.apply($element, args);
           });
           schedule = [];
-        }, 100);
+        }, 1000);
       };
       function defaultLoaded($element) {
         $element.addClass('loaded');
